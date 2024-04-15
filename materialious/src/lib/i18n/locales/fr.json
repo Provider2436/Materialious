@@ -16,17 +16,24 @@
 		"videos": "Vidéos",
 		"playlists": "Playlists",
 		"channels": "Chaines",
-		"shorts": "Shorts"
+		"shorts": "Shorts",
+		"streams": "Diffusions en direct"
+	},
+	"subscriptions": {
+		"manageSubscriptions": "Gérer les abonnements"
 	},
 	"playlist": {
 		"createPlaylist": "Créer une playlist",
 		"public": "Publique",
+		"unlisted": "Non-listé",
 		"private": "Privé",
 		"playVideos": "Lancer la vidéo",
-		"shuffleVideos": "Lecture des vidéos en aléatoire"
+		"shuffleVideos": "Lecture des vidéos en aléatoire",
+		"loopPlaylist": "Boucler la playlist"
 	},
 	"thumbnail": {
-		"live": "LIVE"
+		"live": "LIVE",
+		"failedToLoadImage": "Le chargement d'image a échoué"
 	},
 	"pages": {
 		"home": "Accueil",
@@ -38,8 +45,10 @@
 	"subscribers": "abonnés",
 	"subscribe": "S'abonner",
 	"unsubscribe": "Se désabonner",
+	"loginRequired": "Connexion requis",
 	"player": {
 		"audioOnly": "Audio uniquement",
+		"theatreMode": "Mode cinéma",
 		"share": {
 			"title": "Partager",
 			"materialiousLink": "Copier le lien Materialious",
@@ -48,20 +57,38 @@
 		},
 		"download": "Télécharger",
 		"addToPlaylist": "Ajouter à la playlist",
-		"noPlaylists": "Pas de playlists"
+		"noPlaylists": "Pas de playlists",
+		"unableToLoadComments": "Chargement des commentaires impossible"
 	},
 	"layout": {
 		"syncPartyWarning": "Veuillez noter que votre adresse IP sera visible aux utilisateurs que vous invitez.",
 		"notifications": "Notifications",
 		"noNewNotifications": "Pas de nouvelles notifications",
 		"settings": "Paramètres",
+		"login": "Connexion",
+		"logout": "Déconnexion",
 		"customize": "Customiser",
 		"theme": {
+			"theme": "Thème",
 			"darkMode": "Mode sombre",
 			"lightMode": "Mode clair",
 			"color": "Couleur"
 		},
 		"searchSuggestions": "Suggestions de recherche",
-		"instanceUrl": "L'URL de l'instance"
+		"dataPreferences": {
+			"content": "Vous cherchez à importer/exporter vos abonnements, changer de mot de passe ou supprimer votre compte ? Cliquer ici et allez au bas de la page."
+		},
+		"player": {
+			"title": "Lecteur",
+			"autoPlay": "Lecture automatique des vidéos",
+			"alwaysLoopVideo": "Toujours boucler les vidéos"
+		},
+		"instanceUrl": "L'URL de l'instance",
+		"sponsors": {
+			"sponsor": "Sponsor"
+		},
+		"deArrow": {
+			"title": "DeArrow"
+		}
 	}
 }
